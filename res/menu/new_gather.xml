@@ -1,0 +1,18 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="and06c.lektion4.NewGatherActivity" >
+
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="2"
+        android:title="@string/action_settings"
+        />
+    <item
+        android:id="@+id/del"
+        android:orderInCategory="1"
+        android:title="@string/delete"
+        app:showAsAction="ifRoom"
+        />
+
+</menu>

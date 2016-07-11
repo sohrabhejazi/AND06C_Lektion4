@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<gpx
+xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema- instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1
+http://www.topografix.com/GPX/1/1/gpx.xsd"
+version="1.1"
+creator="Michael Siebert">
+<metadata>
+<name>Testdaten.gpx</name>
+<desc>Für Tests mit dem Emulator Control</desc>
+</metadata>
+<wpt lat="52.514366" lon="13.350141">
+<time>2011-09-21T08:53:22Z</time>
+<name>Siegessäule in Berlin</name>
+<desc>Mitten im Tiergarten</desc>
+</wpt>
+<wpt lat="52.519366" lon="13.355541">
+<ele>210</ele>
+<name>Kreuzung nördlich der Spree</name>
+<desc>Höhe geschätzt</desc>
+</wpt>
+<wpt lat="52.518966" lon="13.323841">
+<name>TU Berlin im Spreebogen</name>
+</wpt>
+</gpx>+
